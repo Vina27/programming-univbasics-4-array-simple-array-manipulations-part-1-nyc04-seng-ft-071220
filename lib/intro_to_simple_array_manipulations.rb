@@ -24,5 +24,6 @@ def pop_with_args(dog_breeds)
  
  def using_shift(array)
    
+   lil_bub = famous_cats.shift
   
  
