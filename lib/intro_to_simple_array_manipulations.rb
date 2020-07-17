@@ -14,7 +14,7 @@ def using_unshift(array, string)
   @array = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   Antarctica array.pop
   p array 
- # p Antarctica
+  p Antarctica
 end
 
 def pop_with_args(dog_breeds)
